@@ -1,0 +1,13 @@
+mainChat = 'XXX:XXX'
+forwardToExpert = 'XXX:XXX-XXX'
+forwardToGroupChat = 'XXX:XXX-XXX'
+cyberbullying = -XXX
+cyberbullying_admin = -XXX
+domesticViolence = -XXX
+domesticViolence_admin = -XXX
+eatingDisorders = -XXX
+eatingDisorders_admin = -XXX
+depressionAndStress = -XXX
+depressionAndStress_admin = -XXX
+genderIdentity = -XXX
+genderIdentity_admin = -XXX
